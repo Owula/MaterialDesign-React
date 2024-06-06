@@ -99,7 +99,7 @@ In most cases it may be a good idea to set a base size. Assuming a `16px` base `
 svg {
   width: 1.5rem;
 }
-```
+```in
 
 For more specific styling apply classes. To make selection of layers easier use the `nth-child` selector.
 
